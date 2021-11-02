@@ -76,7 +76,7 @@
 
 -->
 <permissions>
-   <version>12</version>
+   <version>13</version>
    <role name="product">
       <rule regex="/site/website/san-pham-1/.*">
          <allowed-permissions>
