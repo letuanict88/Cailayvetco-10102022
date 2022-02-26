@@ -7,11 +7,11 @@
 	<objectGroupId>5507b7cd</objectGroupId>
 	<objectId>5507b7cd-419a-4c02-8d39-22fc899d154e</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>ngay-dang-ky-cuoi-cung-quyen-tham-du-dai-hoi-6c5106cd</folder-name>
+	<folder-name>ngay-dang-ky-cuoi-cung-quyen-tham-du-dh-2022</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
-	<internal-name>Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2021 6c5106cd</internal-name>
-	<navLabel>Thông báo về ngày đăng ký cuối cùng tham dự ĐH</navLabel>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2022</internal-name>
+	<navLabel>TB ngay dang ky cuoi cung du Dh 2022</navLabel>
 	<title_s>Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2021</title_s>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</key>
 	<value>Header - Đại hội đồng cổ đông </value>
@@ -24,8 +24,8 @@
 	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/thong-bao-ngay-dang-ky-cuoi-cung-tham-du-dai-hoi"&gt;/thu-vien/thu-vien-tai-lieu/thong-bao-ngay-dang-ky-cuoi-cung-tham-du-dai-hoi&lt;/a&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-31T09:11:08.129Z</createdDate>
 	<createdDate_dt>2020-07-31T09:11:08.129Z</createdDate_dt>
-	<lastModifiedDate>2021-03-03T05:58:04.256Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-03-03T05:58:04.256Z</lastModifiedDate_dt>
-	<date_dt>2021-02-25T05:58:32.000Z</date_dt>
+	<lastModifiedDate>2022-02-26T08:23:29.259Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-02-26T08:23:29.259Z</lastModifiedDate_dt>
+	<date_dt>2022-02-26T08:24:24.000Z</date_dt>
 	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
 </page>
