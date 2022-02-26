@@ -7,12 +7,12 @@
 	<objectGroupId>74f722d1</objectGroupId>
 	<objectId>74f722d1-9e26-40f8-b251-3e9517ccde49</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>nq-hdqt-vv-trieu-tap-dhdcd-2021-001932e4</folder-name>
-	<internal-name>Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ 2021 001932e4</internal-name>
-	<navLabel>Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ 2021</navLabel>
-	<title_s>Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ 2021</title_s>
+	<folder-name>nq-hdqt-vv-trieu-tap-dhdcd-2022</folder-name>
+	<internal-name>Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ 2022</internal-name>
+	<navLabel>Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ 2022</navLabel>
+	<title_s>Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ 2022</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<categories_o>	<item>	<key>shareholders</key>
 	<value_smv>Đại hội đồng cổ đông</value_smv>
 	</item></categories_o>
@@ -21,11 +21,11 @@
 	<include>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></slideImage_o>
-	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/nghi-quyet-trieu-tap-dai-hoi-dong-co-dong-2021"&gt;Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ 2021&lt;/a&gt;&lt;/p&gt;</content_html>
+	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/nghi-quyet-hdqt-trieu-tap-dai-hoi-dcd-nam-2022"&gt;Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ 2022&lt;/a&gt;&lt;/p&gt;</content_html>
 	<createdDate>2021-02-26T02:04:21.807Z</createdDate>
 	<createdDate_dt>2021-02-26T02:04:21.807Z</createdDate_dt>
-	<lastModifiedDate>2021-02-26T02:13:06.248Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-02-26T02:13:06.248Z</lastModifiedDate_dt>
-	<date_dt>2021-02-26T02:04:22.000Z</date_dt>
+	<lastModifiedDate>2022-02-26T07:50:48.479Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-02-26T07:50:48.479Z</lastModifiedDate_dt>
+	<date_dt>2022-02-26T07:51:46.000Z</date_dt>
 	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
 </page>
