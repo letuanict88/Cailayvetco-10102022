@@ -6,21 +6,21 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>c24bfed6</objectGroupId>
 	<objectId>c24bfed6-8645-40e5-928c-9b58181aabe5</objectId>
-	<internal-name>Công bố TB ngày đăng ký cuối cùng dự ĐH 2022 f1a236cc</internal-name>
-	<title_s>Công bố TB ngày đăng ký cuối cùng dự ĐH 2022</title_s>
+	<internal-name>Công bố TB ngày đăng ký cuối cùng dự ĐH 2022 2</internal-name>
+	<title_s>Công bố TB ngày đăng ký cuối cùng dự ĐH 2022 2</title_s>
 	<file-name>index.xml</file-name>
-	<folder-name>thong-bao-ngay-dang-ky-cuoi-cung-tham-du-dh-2022-f1a236cc</folder-name>
+	<folder-name>thong-bao-ngay-dang-ky-cuoi-cung-tham-du-dh-2022-2</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<avatar_s/>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Thong bao dang ky ngay chot quyen du dai hoi 2022.pdf</key>
-	<value>/static-assets/images/libraries/Thong bao dang ky ngay chot quyen du dai hoi 2022.pdf</value>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/2 Thong bao chot quyen tham du dai hoi 2022.pdf</key>
+	<value>/static-assets/images/libraries/2 Thong bao chot quyen tham du dai hoi 2022.pdf</value>
 	<fileType_mvs>pdf</fileType_mvs>
-	<fileSize_s>1098718</fileSize_s>
+	<fileSize_s>792183</fileSize_s>
 	</item></pDFfile_o>
 	<isDisplay_b>false</isDisplay_b>
 	<createdDate>2020-10-19T10:53:17.888Z</createdDate>
 	<createdDate_dt>2020-10-19T10:53:17.888Z</createdDate_dt>
-	<lastModifiedDate>2022-02-26T08:21:29.551Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-02-26T08:21:29.551Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-03-07T07:08:08.463Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-03-07T07:08:08.463Z</lastModifiedDate_dt>
 </page>
