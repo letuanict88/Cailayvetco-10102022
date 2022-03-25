@@ -7,20 +7,20 @@
 	<objectGroupId>99f9a239</objectGroupId>
 	<objectId>99f9a239-9519-4e76-af28-c4047369462f</objectId>
 	<isDisplay_b>false</isDisplay_b>
-	<internal-name>TL Đại hội đồng cổ đông thường niên năm 2021 85117bd8</internal-name>
-	<title_s>TL Đại hội đồng cổ đông thường niên năm 2021</title_s>
+	<internal-name>TL Đại hội đồng cổ đông thường niên năm 2022</internal-name>
+	<title_s>TL Đại hội đồng cổ đông thường niên năm 2022</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Tai lieu dai hoi 2021.pdf</key>
-	<value>/static-assets/images/libraries/Tai lieu dai hoi 2021.pdf</value>
-	<fileType_mvs>pdf</fileType_mvs>
-	<fileSize_s>4768731</fileSize_s>
+	<orderDefault_f>-1</orderDefault_f>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/25.3.2022 Tai lieu DHDCD 2022 cong bo.rar</key>
+	<value>/static-assets/images/libraries/25.3.2022 Tai lieu DHDCD 2022 cong bo.rar</value>
+	<fileType_mvs>rar</fileType_mvs>
+	<fileSize_s>5115743</fileSize_s>
 	</item></pDFfile_o>
 	<file-name>index.xml</file-name>
-	<folder-name>tai-lieu-hop-dhdcd-2021-85117bd8</folder-name>
+	<folder-name>tai-lieu-hop-dhdcd-2022</folder-name>
 	<avatar_s>/static-assets/images/libraries/MKV.jpg</avatar_s>
 	<createdDate>2021-03-24T09:57:28.682Z</createdDate>
 	<createdDate_dt>2021-03-24T09:57:28.682Z</createdDate_dt>
-	<lastModifiedDate>2021-03-24T09:57:28.682Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-03-24T09:57:28.682Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-03-25T08:32:41.234Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-03-25T08:32:41.234Z</lastModifiedDate_dt>
 </page>
