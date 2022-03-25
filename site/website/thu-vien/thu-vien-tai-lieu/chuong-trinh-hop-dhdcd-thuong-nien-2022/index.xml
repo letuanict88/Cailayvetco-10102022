@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagedemo</content-type>
+	<display-template>/templates/web/page/viewPdf.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>edfb</objectGroupId>
+	<objectId>edfbb492-a1a9-ea86-e9c1-8d49bc054a12</objectId>
+	<internal-name>2.Chuong trinh hop DHDCD thuong nien 2022 </internal-name>
+	<title_s>2.Chuong trinh hop DHDCD thuong nien 2022 </title_s>
+	<isDisplay_b>false</isDisplay_b>
+	<file-name>index.xml</file-name>
+	<folder-name>chuong-trinh-hop-dhdcd-thuong-nien-2022</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/2.Chuong trinh hop DHDCD thuong nien 2022 - cong bo.pdf</key>
+	<value>/static-assets/images/libraries/2.Chuong trinh hop DHDCD thuong nien 2022 - cong bo.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>277841</fileSize_s>
+	</item></pDFfile_o>
+	<avatar_s>/static-assets/images/libraries/MKV.jpg</avatar_s>
+	<createdDate>2022-03-25T10:27:09.977Z</createdDate>
+	<createdDate_dt>2022-03-25T10:27:09.977Z</createdDate_dt>
+	<lastModifiedDate>2022-03-25T10:27:09.977Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-03-25T10:27:09.977Z</lastModifiedDate_dt>
+</page>
