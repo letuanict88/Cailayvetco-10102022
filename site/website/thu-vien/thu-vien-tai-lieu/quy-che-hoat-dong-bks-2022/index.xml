@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagedemo</content-type>
+	<display-template>/templates/web/page/viewPdf.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f3f9</objectGroupId>
+	<objectId>f3f92bed-2618-1fc0-7f14-d77aaeb262b5</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>14.4 MKV_Quy chế hoạt động BKS - cong bo</internal-name>
+	<title_s>14.4 MKV_Quy chế hoạt động BKS - cong bo</title_s>
+	<isDisplay_b>false</isDisplay_b>
+	<file-name>index.xml</file-name>
+	<folder-name>quy-che-hoat-dong-bks-2022</folder-name>
+	<avatar_s>/static-assets/images/libraries/Anh Thu vien Tu lieu.jpg</avatar_s>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/14.4 MKV_Quy chế hoạt động BKS - cong bo.pdf</key>
+	<value>/static-assets/images/libraries/14.4 MKV_Quy chế hoạt động BKS - cong bo.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>215871</fileSize_s>
+	</item></pDFfile_o>
+	<createdDate>2022-03-26T01:37:54.282Z</createdDate>
+	<createdDate_dt>2022-03-26T01:37:54.282Z</createdDate_dt>
+	<lastModifiedDate>2022-03-26T01:37:54.282Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-03-26T01:37:54.282Z</lastModifiedDate_dt>
+</page>
