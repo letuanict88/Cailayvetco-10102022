@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagedemo</content-type>
+	<display-template>/templates/web/page/viewPdf.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>69b5</objectGroupId>
+	<objectId>69b5b7d0-2afe-dad8-4e0f-4d7af0019bd4</objectId>
+	<internal-name>12 To trinh bau TVHDQT và BKS 2022 - cong bo_v1</internal-name>
+	<title_s>12 To trinh bau TVHDQT và BKS 2022 - cong bo_v1</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isDisplay_b>false</isDisplay_b>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/12 To trinh bau TVHDQT và BKS 2022 - cong bo_v1.pdf</key>
+	<value>/static-assets/images/libraries/12 To trinh bau TVHDQT và BKS 2022 - cong bo_v1.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>318072</fileSize_s>
+	</item></pDFfile_o>
+	<file-name>index.xml</file-name>
+	<folder-name>to-trinh-bau-tvhdqt-va-bks-2022</folder-name>
+	<avatar_s>/static-assets/images/libraries/Anh Thu vien Tu lieu.jpg</avatar_s>
+	<createdDate>2022-03-26T01:13:00.465Z</createdDate>
+	<createdDate_dt>2022-03-26T01:13:00.465Z</createdDate_dt>
+	<lastModifiedDate>2022-03-26T01:13:00.465Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-03-26T01:13:00.465Z</lastModifiedDate_dt>
+</page>
