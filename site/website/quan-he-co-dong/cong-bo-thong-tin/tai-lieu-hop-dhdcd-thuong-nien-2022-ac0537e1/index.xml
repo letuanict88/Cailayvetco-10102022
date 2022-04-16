@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/quanhecodongdetail</content-type>
+	<display-template>/templates/web/investorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>09d2d127</objectGroupId>
+	<objectId>09d2d127-1b1f-4706-b5ca-1569691eeaa3</objectId>
+	<internal-name>MKV công bố tài liệu họp Đại hội đồng cổ đông thường niên năm 2022 ac0537e1</internal-name>
+	<navLabel>MKV công bố tài liệu họp DHDCD thường niên</navLabel>
+	<title_s>MKV công bố tài liệu họp Đại hội đồng cổ đông thường niên năm 2022</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>tai-lieu-hop-dhdcd-thuong-nien-2022-ac0537e1</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</key>
+	<value>Header - Detail Quan hệ cổ đông</value>
+	<include>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<categories_o>	<item>	<key>shareholders</key>
+	<value_smv>Đại hội đồng cổ đông</value_smv>
+	</item></categories_o>
+	<content_html>&lt;p&gt;&lt;strong&gt;Xin mời Qu&amp;yacute; cổ đ&amp;ocirc;ng click v&amp;agrave;o file để xem chi tiết:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1. &lt;a href="/thu-vien/thu-vien-tai-lieu/thong-bao-moi-hop-mkv-2022"&gt;Th&amp;ocirc;ng b&amp;aacute;o mời họp ĐHĐCĐ thường ni&amp;ecirc;n năm 2022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/chuong-trinh-hop-dhdcd-thuong-nien-2022"&gt;2. Chương tr&amp;igrave;nh họp ĐHĐCĐ thường ni&amp;ecirc;n&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/mau-giay-xac-nhan-tham-du-dhcd-2022"&gt;3. Mẫu giấy x&amp;aacute;c nhận tham dự&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/quy-che-bau-cu-nam-2022"&gt;5. Quy chế bầu cử &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5.7. &lt;a href="/thu-vien/thu-vien-tai-lieu/phieu-de-cu-ung-vien-hdqt-2022"&gt;Phiếu đề cử ứng vi&amp;ecirc;n HĐQT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5.8. &lt;a href="/thu-vien/thu-vien-tai-lieu/phieu-de-cu-ung-vien-bks"&gt;Phiếu đề cử ứng vi&amp;ecirc;n Ban Kiểm so&amp;aacute;t&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5.9. &lt;a href="/thu-vien/thu-vien-tai-lieu/mau-so-yeu-li-lich-ung-cu-vien"&gt;Mẫu sơ yếu l&amp;yacute; lịch ứng cử vi&amp;ecirc;n&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6.&amp;nbsp;&lt;a href="/thu-vien/thu-vien-tai-lieu/quy-che-hop-dhdcd-2022"&gt;Quy chế họp ĐHĐCĐ năm 2022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6.1. &lt;a href="/thu-vien/thu-vien-tai-lieu/phieu-lay-y-kien-co-dong-2022"&gt;Phiếu &amp;yacute; kiến cổ đ&amp;ocirc;ng&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6.2. &lt;a href="/thu-vien/thu-vien-tai-lieu/phieu-bieu-quyet-dhdcd-2022"&gt;Phiếu biểu quyết&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;7. &lt;a href="/thu-vien/thu-vien-tai-lieu/to-trinh-chon-cong-ty-kiem-toan-2022"&gt;Tờ tr&amp;igrave;nh lựa chọn c&amp;ocirc;ng ty kiểm to&amp;aacute;n&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;8. &lt;a href="/thu-vien/thu-vien-tai-lieu/to-trinh-phu-cao-hdqt-bks-2022"&gt;Tờ tr&amp;igrave;nh phụ cấp HĐQT v&amp;agrave; Ban Kiểm so&amp;aacute;t&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;9. &lt;a href="/thu-vien/thu-vien-tai-lieu/bao-cao-hdqt-2022"&gt;B&amp;aacute;o c&amp;aacute;o của HĐQT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;10. &lt;a href="/thu-vien/thu-vien-tai-lieu/bao-cao-bks-2022"&gt;B&amp;aacute;o c&amp;aacute;o của Ban Kiểm so&amp;aacute;t&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;11. &lt;a href="/thu-vien/thu-vien-tai-lieu/to-trinh-ke-hoach-sxkd-2022"&gt;Tờ tr&amp;igrave;nh Kế hoạch sản xuất kinh doanh năm 2022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;12. &lt;a href="/thu-vien/thu-vien-tai-lieu/to-trinh-bau-tvhdqt-va-bks-2022"&gt;Tờ tr&amp;igrave;nh bầu th&amp;agrave;nh vi&amp;ecirc;n HĐQT v&amp;agrave; Ban Kiểm so&amp;aacute;t&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;12.1. &lt;a href="/thu-vien/thu-vien-tai-lieu/syll-dao-manh-luong-2022"&gt;Sơ yếu l&amp;yacute; lịch &amp;ocirc;ng Đ&amp;agrave;o Mạnh Lương&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;12.2. &lt;a href="/thu-vien/thu-vien-tai-lieu/syll-nguyen-anh-tuan-2022"&gt;Sơ yếu l&amp;yacute; lịch &amp;ocirc;ng Nguyễn Anh Tuấn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;12.3. &lt;a href="/thu-vien/thu-vien-tai-lieu/syll-le-thanh-nam-2022"&gt;Sơ yếu l&amp;yacute; lịch &amp;ocirc;ng L&amp;ecirc; Th&amp;agrave;nh Nam&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;12.4.&amp;nbsp;&lt;a href="/thu-vien/thu-vien-tai-lieu/syll-dao-manh-hoa-2022"&gt;Sơ yếu l&amp;yacute; lịch &amp;ocirc;ng Đ&amp;agrave;o Mạnh H&amp;ograve;a&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;12.5.&amp;nbsp;&lt;a href="/thu-vien/thu-vien-tai-lieu/syll-than-van-dung-2022"&gt;Sơ yếu l&amp;yacute; lịch &amp;ocirc;ng Th&amp;acirc;n Văn Dũng&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;12.6.&amp;nbsp;&lt;a href="/thu-vien/thu-vien-tai-lieu/syll-tran-thi-kieu-chinh-2022"&gt;Sơ yếu l&amp;yacute; lịch b&amp;agrave; Trần Thị Kiều Chinh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;12.7.&amp;nbsp;&lt;a href="/thu-vien/thu-vien-tai-lieu/syll-vu-thi-hong-nhung-2022"&gt;Sơ yếu l&amp;yacute; lịch b&amp;agrave; Vũ Thị Hồng Nhung&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;13. &lt;a href="/thu-vien/thu-vien-tai-lieu/to-trinh-ke-hoach-dieu-chinh-dieu-le-2022"&gt;Tờ tr&amp;igrave;nh kế hoạch điều chỉnh điều lệ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;13.1.&lt;a href="/thu-vien/thu-vien-tai-lieu/noi-dung-sua-doi-dieu-le-2022"&gt; C&amp;aacute;c nội dung sửa đổi điều lệ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;13.2. &lt;a href="/thu-vien/thu-vien-tai-lieu/du-thao-dieu-le-2022"&gt;Dự thảo điều lệ năm 2022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;14. &lt;a href="/thu-vien/thu-vien-tai-lieu/to-trinh-cac-quy-che-2022"&gt;Tờ tr&amp;igrave;nh c&amp;aacute;c quy chế&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;14.1. &lt;a href="/thu-vien/thu-vien-tai-lieu/du-thao-quy-che-hop-truc-tuyen-2022"&gt;Dự thảo quy chế họp trực tuyến&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;14.2. &lt;a href="/thu-vien/thu-vien-tai-lieu/quy-che-quan-tri-noi-bo"&gt;Quy chế quản trị nội bộ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;14.3. &lt;a href="/thu-vien/thu-vien-tai-lieu/quy-che-hoat-dong-hdqt-2022"&gt;Quy chế hoạt động của HĐQT&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;14.4. &lt;a href="/thu-vien/thu-vien-tai-lieu/quy-che-hoat-dong-bks-2022"&gt;Quy chế hoạt động của Ban Kiểm so&amp;aacute;t&lt;/a&gt;&lt;/p&gt;</content_html>
+	<createdDate>2022-03-25T10:35:09.254Z</createdDate>
+	<createdDate_dt>2022-03-25T10:35:09.254Z</createdDate_dt>
+	<lastModifiedDate>2022-03-26T02:04:39.546Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-03-26T02:04:39.546Z</lastModifiedDate_dt>
+	<date_dt>2022-03-25T10:46:30.000Z</date_dt>
+	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
+</page>
