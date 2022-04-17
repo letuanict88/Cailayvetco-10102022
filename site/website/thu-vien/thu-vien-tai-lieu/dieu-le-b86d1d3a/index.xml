@@ -6,21 +6,21 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>76814a57</objectGroupId>
 	<objectId>76814a57-e773-4ff7-91cf-d23f2f72effb</objectId>
-	<internal-name>Điều lệ công ty 2022 b86d1d3a</internal-name>
-	<title_s>Điều lệ công ty 2022</title_s>
+	<internal-name>Quy chế nội bộ công ty 2022 </internal-name>
+	<title_s>Quy chế nội bộ công ty 2022 </title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
-	<folder-name>dieu-le-b86d1d3a</folder-name>
+	<folder-name>quy-che-noi-bo</folder-name>
 	<avatar_s>/static-assets/images/libraries/Anh Thu vien Tu lieu.jpg</avatar_s>
 	<isDisplay_b>true</isDisplay_b>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Dieu le 2022_dakyso_ nen.pdf</key>
-	<value>/static-assets/images/libraries/Dieu le 2022_dakyso_ nen.pdf</value>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Quy che noi bo_dakyso.pdf</key>
+	<value>/static-assets/images/libraries/Quy che noi bo_dakyso.pdf</value>
 	<fileType_mvs>pdf</fileType_mvs>
-	<fileSize_s>10322419</fileSize_s>
+	<fileSize_s>12927597</fileSize_s>
 	</item></pDFfile_o>
 	<createdDate>2020-08-14T03:45:18.837Z</createdDate>
 	<createdDate_dt>2020-08-14T03:45:18.837Z</createdDate_dt>
-	<lastModifiedDate>2022-04-17T04:24:41.659Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-04-17T04:24:41.659Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-04-17T04:27:10.902Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-04-17T04:27:10.902Z</lastModifiedDate_dt>
 </page>
