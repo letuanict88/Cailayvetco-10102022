@@ -6,21 +6,21 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>a1076212</objectGroupId>
 	<objectId>a1076212-4724-4b42-a08a-9102e2dcc17d</objectId>
-	<internal-name>Quy chế hoạt động của Hội đồng quản trị a85b5085</internal-name>
-	<title_s>Quy chế hoạt động của Hội đồng quản trị công ty</title_s>
+	<internal-name>Quy chế hoạt động của Ban kiểm soát</internal-name>
+	<title_s>Quy chế hoạt động của Ban kiểm soát công ty</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
-	<folder-name>quy-che-hoat-dong-hdqt-a85b5085</folder-name>
+	<folder-name>quy-che-hoat-dong-bks</folder-name>
 	<avatar_s>/static-assets/images/libraries/Anh Thu vien Tu lieu.jpg</avatar_s>
 	<isDisplay_b>true</isDisplay_b>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Quy che hoat dong cua HDQT.pdf</key>
-	<value>/static-assets/images/libraries/Quy che hoat dong cua HDQT.pdf</value>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Quy che hoat dong cua BKS.pdf</key>
+	<value>/static-assets/images/libraries/Quy che hoat dong cua BKS.pdf</value>
 	<fileType_mvs>pdf</fileType_mvs>
-	<fileSize_s>7641248</fileSize_s>
+	<fileSize_s>213994</fileSize_s>
 	</item></pDFfile_o>
 	<createdDate>2020-08-14T03:45:18.837Z</createdDate>
 	<createdDate_dt>2020-08-14T03:45:18.837Z</createdDate_dt>
-	<lastModifiedDate>2022-04-17T04:28:56.565Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-04-17T04:28:56.565Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-04-17T04:30:08.740Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-04-17T04:30:08.740Z</lastModifiedDate_dt>
 </page>
