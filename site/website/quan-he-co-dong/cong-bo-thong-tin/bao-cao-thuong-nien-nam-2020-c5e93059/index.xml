@@ -7,12 +7,12 @@
 	<objectGroupId>29b611c0</objectGroupId>
 	<objectId>29b611c0-415c-4aca-bec9-f94cb115b2b5</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>bao-cao-thuong-nien-nam-2020-c5e93059</folder-name>
-	<internal-name>MKV công bố báo cáo thường niên năm 2020 c5e93059</internal-name>
-	<navLabel>MKV công bố báo cáo thường niên năm 2020</navLabel>
-	<title_s>MKV công bố báo cáo thường niên năm 2020</title_s>
+	<folder-name>bao-cao-thuong-nien-nam-2021</folder-name>
+	<internal-name>MKV công bố báo cáo thường niên năm 2021</internal-name>
+	<navLabel>MKV công bố báo cáo thường niên năm 2021</navLabel>
+	<title_s>MKV công bố báo cáo thường niên năm 2021</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</key>
 	<value>Header - Investor</value>
 	<include>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</include>
@@ -24,8 +24,8 @@
 	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/bao-cao-thuong-nien-nam-2020"&gt;Bao cao thuong nien 2020&lt;/a&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-31T08:41:50.867Z</createdDate>
 	<createdDate_dt>2020-07-31T08:41:50.867Z</createdDate_dt>
-	<lastModifiedDate>2021-03-30T03:58:26.770Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-03-30T03:58:26.770Z</lastModifiedDate_dt>
-	<date_dt>2021-03-30T03:56:11.000Z</date_dt>
+	<lastModifiedDate>2022-04-17T04:15:06.395Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-04-17T04:15:06.395Z</lastModifiedDate_dt>
+	<date_dt>2022-04-17T04:15:26.000Z</date_dt>
 	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
 </page>
