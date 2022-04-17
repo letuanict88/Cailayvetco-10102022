@@ -6,21 +6,21 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>c0bb8c32</objectGroupId>
 	<objectId>c0bb8c32-9b50-4f31-9311-1cf6b95eda46</objectId>
-	<internal-name>Báo cáo tài chính 6 tháng cuối năm 2020 79f97610</internal-name>
-	<title_s>Báo cáo tài chính 6 tháng cuối năm 2020</title_s>
+	<internal-name>Điều lệ công ty 2022</internal-name>
+	<title_s>Điều lệ công ty 2022</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
-	<folder-name>bao-cao-tai-chinh-ban-nien-2020-79f97610</folder-name>
+	<folder-name>dieu-le</folder-name>
 	<avatar_s>/static-assets/images/libraries/Anh Thu vien Tu lieu.jpg</avatar_s>
 	<isDisplay_b>true</isDisplay_b>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/BCTC ban nien 2020.pdf</key>
-	<value>/static-assets/images/libraries/BCTC ban nien 2020.pdf</value>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Dieu le 2022_dakyso_ nen.pdf</key>
+	<value>/static-assets/images/libraries/Dieu le 2022_dakyso_ nen.pdf</value>
 	<fileType_mvs>pdf</fileType_mvs>
-	<fileSize_s>8383677</fileSize_s>
+	<fileSize_s>10322419</fileSize_s>
 	</item></pDFfile_o>
 	<createdDate>2020-08-14T03:45:18.837Z</createdDate>
 	<createdDate_dt>2020-08-14T03:45:18.837Z</createdDate_dt>
-	<lastModifiedDate>2021-07-12T02:03:54.390Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-07-12T02:03:54.390Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-04-17T04:24:41.659Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-04-17T04:24:41.659Z</lastModifiedDate_dt>
 </page>
