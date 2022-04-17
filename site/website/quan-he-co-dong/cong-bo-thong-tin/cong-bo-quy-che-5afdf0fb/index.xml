@@ -7,12 +7,12 @@
 	<objectGroupId>a0849182</objectGroupId>
 	<objectId>a0849182-a13e-4526-b380-15ff45348adc</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>cong-bo-quy-che-5afdf0fb</folder-name>
-	<internal-name>Công bố Quy chế Công ty Cổ phần Dược thú y Cai Lậy  5afdf0fb</internal-name>
-	<navLabel>Công bố Quy chế Công ty Cổ phần Dược thú y Cai Lậy</navLabel>
-	<title_s>Công bố Quy chế Công ty Cổ phần Dược thú y Cai Lậy </title_s>
+	<folder-name>cong-bo-thanh-vien-hdqt-bks</folder-name>
+	<internal-name>Công bố Thành viên Hội đồng quản trị và Ban kiểm soát nhiệm kỳ 2022-2027</internal-name>
+	<navLabel>Công bố Thành viên Hội đồng quản trị và Ban kiểm s</navLabel>
+	<title_s>Công bố Thành viên Hội đồng quản trị và Ban kiểm soát nhiệm kỳ 2022-2027</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</key>
 	<value>Header - Investor</value>
 	<include>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</include>
@@ -24,8 +24,8 @@
 	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/bao-cao-tai-chinh-quy-4-nam-2021"&gt;C&amp;ocirc;ng bố b&amp;aacute;o c&amp;aacute;o t&amp;agrave;i ch&amp;iacute;nh qu&amp;yacute; 4 năm 2021.&lt;/a&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-31T09:07:05.067Z</createdDate>
 	<createdDate_dt>2020-07-31T09:07:05.067Z</createdDate_dt>
-	<lastModifiedDate>2022-04-17T04:21:34.851Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-04-17T04:21:34.851Z</lastModifiedDate_dt>
-	<date_dt>2022-04-16T17:30:11.000Z</date_dt>
+	<lastModifiedDate>2022-04-17T04:22:25.844Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-04-17T04:22:25.844Z</lastModifiedDate_dt>
+	<date_dt>2022-04-17T03:50:23.000Z</date_dt>
 	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
 </page>
