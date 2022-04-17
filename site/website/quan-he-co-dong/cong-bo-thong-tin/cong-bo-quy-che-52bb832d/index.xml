@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/quanhecodongdetail</content-type>
+	<display-template>/templates/web/investorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bd8af9f5</objectGroupId>
+	<objectId>bd8af9f5-2792-4df2-b2c7-0ce389feaca1</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cong-bo-quy-che-52bb832d</folder-name>
+	<internal-name>Công bố Quy chế Công ty Cổ phần Dược thú y Cai Lậy  52bb832d</internal-name>
+	<navLabel>Công bố Quy chế Công ty Cổ phần Dược thú y Cai Lậy</navLabel>
+	<title_s>Công bố Quy chế Công ty Cổ phần Dược thú y Cai Lậy </title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</key>
+	<value>Header - Investor</value>
+	<include>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<categories_o>	<item>	<key>announcement</key>
+	<value_smv>Công bố thông tin</value_smv>
+	</item></categories_o>
+	<content_html>&lt;p&gt;&lt;span style="box-sizing: border-box; font-size: 18px; margin: 0px; padding: 0px; font-family: Roboto, sans-serif; font-weight: bolder; border: 0px; vertical-align: baseline; color: #636466; word-spacing: 2px; background-color: #ffffff;"&gt;Xin mời Qu&amp;yacute; cổ đ&amp;ocirc;ng click v&amp;agrave;o file để xem chi tiết:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/quy-che-to-chuc-dai-hoi-truc-tuyen"&gt;Quy chế tổ chức đại hội đồng cổ đ&amp;ocirc;ng trực tuyến v&amp;agrave; bỏ phiếu điện tử&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;.....&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T09:07:05.067Z</createdDate>
+	<createdDate_dt>2020-07-31T09:07:05.067Z</createdDate_dt>
+	<lastModifiedDate>2022-04-17T04:33:05.779Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-04-17T04:33:05.779Z</lastModifiedDate_dt>
+	<date_dt>2022-04-16T17:30:11.000Z</date_dt>
+	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
+</page>
