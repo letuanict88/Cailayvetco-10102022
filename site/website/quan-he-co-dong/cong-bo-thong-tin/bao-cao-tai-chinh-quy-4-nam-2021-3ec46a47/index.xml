@@ -7,12 +7,12 @@
 	<objectGroupId>46356812</objectGroupId>
 	<objectId>46356812-c4eb-4582-afac-1c376593ac4c</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>bao-cao-tai-chinh-quy-4-nam-2021-3ec46a47</folder-name>
-	<internal-name>Công bố báo cáo tài chính quý 4 năm 2021 3ec46a47</internal-name>
-	<navLabel>Công bố báo cáo tài chính quý 4 năm 2021</navLabel>
-	<title_s>Công bố báo cáo tài chính quý 4 năm 2021</title_s>
+	<folder-name>cong-bo-dieu-le</folder-name>
+	<internal-name>Công bố Điều lệ Công ty Cổ phần Dược thú y Cai Lậy</internal-name>
+	<navLabel>Công bố Điều lệ Công ty Cổ phần Dược thú y Cai Lậy</navLabel>
+	<title_s>Công bố Điều lệ Công ty Cổ phần Dược thú y Cai Lậy</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</key>
 	<value>Header - Investor</value>
 	<include>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</include>
@@ -24,8 +24,8 @@
 	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/bao-cao-tai-chinh-quy-4-nam-2021"&gt;C&amp;ocirc;ng bố b&amp;aacute;o c&amp;aacute;o t&amp;agrave;i ch&amp;iacute;nh qu&amp;yacute; 4 năm 2021.&lt;/a&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-31T09:07:05.067Z</createdDate>
 	<createdDate_dt>2020-07-31T09:07:05.067Z</createdDate_dt>
-	<lastModifiedDate>2022-01-19T09:06:21.529Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-01-19T09:06:21.529Z</lastModifiedDate_dt>
-	<date_dt>2022-01-19T09:06:42.000Z</date_dt>
+	<lastModifiedDate>2022-04-17T04:19:49.009Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-04-17T04:19:49.009Z</lastModifiedDate_dt>
+	<date_dt>2022-04-17T04:00:11.000Z</date_dt>
 	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
 </page>
