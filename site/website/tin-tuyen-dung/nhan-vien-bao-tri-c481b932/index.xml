@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/jobdetail</content-type>
+	<display-template>/templates/web/page/job-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>100a300f</objectGroupId>
+	<objectId>100a300f-321b-44db-80ce-5270a348758f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>nhan-vien-bao-tri-c481b932</folder-name>
+	<internal-name>Tuyển nhân viên bảo trì - cơ điện c481b932</internal-name>
+	<navLabel>Tuyển nhân viên bảo trì - cơ điện</navLabel>
+	<jobTitle_s>Tuyển nhân viên bảo trì - cơ điện</jobTitle_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>de4d6544-37a0-6bce-d2b5-fcdebfa0405f</key>
+	<value>Job Slide</value>
+<component id="de4d6544-37a0-6bce-d2b5-fcdebfa0405f">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>de4d</objectGroupId>
+	<objectId>de4d6544-37a0-6bce-d2b5-fcdebfa0405f</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-job-title.png</image_s>
+	</item></slide_o>
+	<file-name>de4d6544-37a0-6bce-d2b5-fcdebfa0405f.xml</file-name>
+	<internal-name>Job Slide</internal-name>
+	<createdDate>2020-06-29T07:28:12.532Z</createdDate>
+	<createdDate_dt>2020-06-29T07:28:12.532Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T02:48:12.296Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:48:12.296Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<jobContent_html>&lt;p&gt;&lt;strong&gt;Số lượng tuyển: 2 người&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Địa điểm l&amp;agrave;m việc: &lt;/strong&gt;Nh&amp;agrave; m&amp;aacute;y tại thị x&amp;atilde; Cai Lậy, tỉnh Tiền Giang&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="text-align: justify; text-indent: -0.25in; font-size: 14.5pt; line-height: 115%; font-family: Arial, sans-serif;"&gt;- Thực hiện c&amp;aacute;c c&amp;ocirc;ng việc sửa chữa v&amp;agrave; bảo tr&amp;igrave; m&amp;aacute;y m&amp;oacute;c, thiết bị nh&amp;agrave; m&amp;aacute;y;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14.5pt; line-height: 115%; font-family: 'Arial',sans-serif;"&gt;- Vận h&amp;agrave;nh hệ thống phụ trợ cung cấp đầy đủ kh&amp;iacute; - điện - nước phục vụ cho sản xuất;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14.5pt; line-height: 115%; font-family: 'Arial',sans-serif;"&gt;- B&amp;aacute;o c&amp;aacute;o v&amp;agrave; tham mưu cho Quản l&amp;yacute; về c&amp;aacute;c hoạt động cải tiến, bảo dưỡng.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Y&amp;ecirc;u cầu:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Giới t&amp;iacute;nh: Nam&lt;/p&gt;
+&lt;p&gt;- Tốt nghiệp cao đẳng/đại học chuy&amp;ecirc;n ng&amp;agrave;nh &lt;span style="text-align: justify; text-indent: -0.25in; font-size: 14.5pt; line-height: 115%; font-family: Arial, sans-serif;"&gt;&amp;nbsp;ng&amp;agrave;nh điện tử, tự động h&amp;oacute;a, điện, cơ kh&amp;iacute;;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;- Ưu ti&amp;ecirc;n kinh nghiệm từ 1 năm trở l&amp;ecirc;n.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quyền lợi:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Thu nhập: Thỏa thuận&lt;/p&gt;
+&lt;p&gt;- Hưởng tất c&amp;aacute;c c&amp;aacute;c quyền lợi về BHXH,YT,TN, c&amp;aacute;c ng&amp;agrave;y Lễ, Tết theo quy định của Ph&amp;aacute;p luật hiện h&amp;agrave;nh.&lt;/p&gt;
+&lt;p&gt;- C&amp;ocirc;ng ty tham gia BHTN 24/24&lt;/p&gt;
+&lt;p&gt;- Gia nhập v&amp;agrave; hưởng quyền lợi của c&amp;ocirc;ng đo&amp;agrave;n.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Y&amp;ecirc;u cầu hồ sơ:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Hồ sơ xin việc, giấy x&amp;aacute;c nhận hạnh kiểm, giấy kh&amp;aacute;m sức khỏe (trong v&amp;ograve;ng 6 th&amp;aacute;ng).&lt;/p&gt;
+&lt;p&gt;- Giấy chứng minh nh&amp;acirc;n d&amp;acirc;n, Sổ hộ khẩu gia đ&amp;igrave;nh (bản sao).&lt;/p&gt;
+&lt;p&gt;- C&amp;aacute;c văn bằng, chứng chỉ c&amp;oacute; li&amp;ecirc;n quan.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;H&amp;igrave;nh thức li&amp;ecirc;n hệ:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Ứng vi&amp;ecirc;n nộp hồ sơ qua&amp;nbsp; Email C&amp;ocirc;ng ty: &lt;strong&gt;&lt;a href="mailto:tuyendung@cailayvetco.com"&gt;tuyendung@cailayvetco.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Li&amp;ecirc;n hệ SĐT/ zalo: 0943077647&lt;/strong&gt;&lt;/p&gt;</jobContent_html>
+	<createdDate>2020-06-29T07:27:00.149Z</createdDate>
+	<createdDate_dt>2020-06-29T07:27:00.149Z</createdDate_dt>
+	<lastModifiedDate>2022-05-04T07:21:22.732Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-05-04T07:21:22.732Z</lastModifiedDate_dt>
+	<jobDuration_dt>2022-03-10T01:50:04.000Z</jobDuration_dt>
+	<jobDuration_dt_tz>Asia/Ho_Chi_Minh</jobDuration_dt_tz>
+</page>
