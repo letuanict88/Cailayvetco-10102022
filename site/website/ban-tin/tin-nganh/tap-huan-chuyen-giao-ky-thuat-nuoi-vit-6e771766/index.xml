@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fc420b23</objectGroupId>
+	<objectId>fc420b23-e8cb-412d-a2c7-b6d0bded49e9</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tap-huan-chuyen-giao-ky-thuat-nuoi-vit-6e771766</folder-name>
+	<internal-name>2022 Tập huấn chuyển giao kỹ thuật nuôi vịt thịt theo chuỗi giá trị 6e771766</internal-name>
+	<navLabel>Tập huấn chuyển giao kỹ thuật nuôi vịt thịt </navLabel>
+	<title_s>Tập huấn chuyển giao kỹ thuật nuôi vịt thịt theo chuỗi giá trị</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<categories_o>	<item>	<key>industrynews</key>
+	<value_smv> Tin ngành</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/Golive_ERP_Mavin_Foods.jpg</image_s>
+	<content_html>&lt;p style="box-sizing: border-box; outline: none; margin: 0px 0px 10px; color: #1a1a1a; font-family: UVFDINPro; font-size: 16px; text-align: justify; background-color: #ffffff;"&gt;Ng&amp;agrave;y 12&amp;amp;13/04/2022, tại huyện Thường Xu&amp;acirc;n - tỉnh Thanh H&amp;oacute;a, Tập đo&amp;agrave;n Mavin đ&amp;atilde; phối hợp với Tổ chức Tầm nh&amp;igrave;n Thế giới tại Việt Nam (World Vision) tổ chức Chương tr&amp;igrave;nh tập huấn, chuyển giao kỹ thuật chăn nu&amp;ocirc;i vịt thịt cho hơn 100 hộ d&amp;acirc;n ngh&amp;egrave;o, d&amp;acirc;n tộc thiểu số tr&amp;ecirc;n địa b&amp;agrave;n.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; outline: none; margin: 0px 0px 10px; color: #1a1a1a; font-family: UVFDINPro; font-size: 16px; background-color: #ffffff; text-align: center;"&gt;&lt;img class="img-editor" style="box-sizing: border-box; outline: none; border: 0px; vertical-align: middle; max-width: 100%;" src="https://mavin-group.com/FileUpload/Images/tap_huan_thuong_xuan_thanh_hoa__1.jpg" alt="" border="0" /&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; outline: none; margin: 0px 0px 10px; color: #1a1a1a; font-family: UVFDINPro; font-size: 16px; background-color: #ffffff; text-align: center;"&gt;&lt;em style="box-sizing: border-box; outline: none;"&gt;&lt;img class="img-editor" style="box-sizing: border-box; outline: none; border: 0px; vertical-align: middle; max-width: 100%;" src="https://mavin-group.com/FileUpload/Images/tap_huan_thuong_xuan_thanh_hoa__2.jpg" alt="" border="0" /&gt;&lt;/em&gt;&lt;br style="box-sizing: border-box; outline: none;" /&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; outline: none; margin: 0px 0px 10px; color: #1a1a1a; font-family: UVFDINPro; font-size: 16px; background-color: #ffffff; text-align: center;"&gt;&lt;em style="box-sizing: border-box; outline: none;"&gt;&lt;img class="img-editor" style="box-sizing: border-box; outline: none; border: 0px; vertical-align: middle; max-width: 100%;" src="https://mavin-group.com/FileUpload/Images/tap_huan_thuong_xuan_thanh_hoa__3.jpg" alt="" border="0" /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; outline: none; margin: 0px 0px 10px; color: #1a1a1a; font-family: UVFDINPro; font-size: 16px; background-color: #ffffff; text-align: center;"&gt;&lt;em style="box-sizing: border-box; outline: none;"&gt;C&amp;aacute;n bộ kỹ thuật Mavin tư vấn về quy tr&amp;igrave;nh chăn nu&amp;ocirc;i vịt si&amp;ecirc;u nạc cho c&amp;aacute;c hộ ngh&amp;egrave;o v&amp;agrave; đội ngũ th&amp;uacute; y cơ sở của Thường Xu&amp;acirc;n&lt;/em&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; outline: none; margin: 0px 0px 10px; color: #1a1a1a; font-family: UVFDINPro; font-size: 16px; text-align: justify; background-color: #ffffff;"&gt;B&amp;ecirc;n cạnh tập huấn, đ&amp;agrave;o tạo quy tr&amp;igrave;nh chăn nu&amp;ocirc;i, phối trộn thức ăn, c&amp;aacute;n bộ kỹ thuật của Mavin Duckfarm cũng đ&amp;atilde; khảo s&amp;aacute;t thực tế một số hộ d&amp;acirc;n để đ&amp;aacute;nh gi&amp;aacute; điều kiện chăn nu&amp;ocirc;i, tư vấn x&amp;acirc;y dựng chuồng nu&amp;ocirc;i, m&amp;aacute;ng uống, m&amp;aacute;ng ăn... Trong qu&amp;aacute; tr&amp;igrave;nh chăn nu&amp;ocirc;i cũng sẽ c&amp;oacute; sự đồng h&amp;agrave;nh, gi&amp;aacute;m s&amp;aacute;t, tư vấn kịp thời từ đội ngũ kỹ thuật của Mavin Duckfarm cho tới khi xuất b&amp;aacute;n.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; outline: none; margin: 0px 0px 10px; color: #1a1a1a; font-family: UVFDINPro; font-size: 16px; background-color: #ffffff; text-align: center;"&gt;&lt;img class="img-editor" style="box-sizing: border-box; outline: none; border: 0px; vertical-align: middle; max-width: 100%;" src="https://mavin-group.com/FileUpload/Images/tap_huan_thuong_xuan_thanh_hoa_.jpg" alt="" border="0" /&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; outline: none; margin: 0px 0px 10px; color: #1a1a1a; font-family: UVFDINPro; font-size: 16px; background-color: #ffffff; text-align: center;"&gt;&lt;em style="box-sizing: border-box; outline: none;"&gt;C&amp;aacute;n bộ kỹ thuật khảo s&amp;aacute;t điều kiện chuồng trại thực tế của c&amp;aacute;c hộ d&amp;acirc;n v&amp;agrave; tư vấn c&amp;aacute;ch điều chỉnh ph&amp;ugrave; hợp với chăn nu&amp;ocirc;i an to&amp;agrave;n sinh học&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; outline: none; margin: 0px 0px 10px; color: #1a1a1a; font-family: UVFDINPro; font-size: 16px; text-align: justify; background-color: #ffffff;"&gt;Chương tr&amp;igrave;nh tập huấn nằm trong Dự &amp;aacute;n hỗ trợ sinh kế của Tập đo&amp;agrave;n Mavin phối hợp với World Vision Việt Nam thực hiện trong 3 năm 2022 - 2024 nhằm gi&amp;uacute;p n&amp;ocirc;ng d&amp;acirc;n ngh&amp;egrave;o l&amp;agrave;m chủ nghề chăn nu&amp;ocirc;i vịt, tiếp cận quy tr&amp;igrave;nh chăn nu&amp;ocirc;i hiệu quả theo chuỗi gi&amp;aacute; trị, cải thiện kinh tế hộ gia đ&amp;igrave;nh.&lt;/p&gt;</content_html>
+	<createdDate_dt>2022-04-13T03:05:41.000Z</createdDate_dt>
+	<createdDate>2020-11-12T03:03:34.025Z</createdDate>
+	<lastModifiedDate>2022-04-22T07:06:51.957Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-04-22T07:06:51.957Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>
