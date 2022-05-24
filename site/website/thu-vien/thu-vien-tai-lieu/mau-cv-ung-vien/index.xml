@@ -13,14 +13,14 @@
 	<file-name>index.xml</file-name>
 	<folder-name>mau-cv-ung-vien</folder-name>
 	<avatar_s>/static-assets/images/libraries/Anh Thu vien Tu lieu.jpg</avatar_s>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Mau Thong tin ung vien A.doc</key>
-	<value>/static-assets/images/libraries/Mau Thong tin ung vien A.doc</value>
-	<fileType_mvs>doc</fileType_mvs>
-	<fileSize_s>231424</fileSize_s>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Mau thong tin ung vien.pdf</key>
+	<value>/static-assets/images/libraries/Mau thong tin ung vien.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>767804</fileSize_s>
 	</item></pDFfile_o>
 	<isDisplay_b>false</isDisplay_b>
 	<createdDate>2022-03-26T01:10:31.171Z</createdDate>
 	<createdDate_dt>2022-03-26T01:10:31.171Z</createdDate_dt>
-	<lastModifiedDate>2022-05-24T08:15:33.397Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-05-24T08:15:33.397Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-05-24T08:21:10.774Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-05-24T08:21:10.774Z</lastModifiedDate_dt>
 </page>
