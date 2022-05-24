@@ -6,21 +6,21 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>654c66c8</objectGroupId>
 	<objectId>654c66c8-d3d7-4776-a06e-6398d48fd215</objectId>
-	<internal-name>10 Báo cáo của BKS tai ĐHDCĐ 2022 - cong bo d1829bdd</internal-name>
-	<title_s>10 Báo cáo của BKS tai ĐHDCĐ 2022 - cong bo</title_s>
+	<internal-name>Mẫu CV ứng viên _2022</internal-name>
+	<title_s>Mẫu CV ứng viên _2022</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
-	<folder-name>bao-cao-bks-2022-d1829bdd</folder-name>
+	<folder-name>mau-cv-ung-vien</folder-name>
 	<avatar_s>/static-assets/images/libraries/Anh Thu vien Tu lieu.jpg</avatar_s>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/10 Báo cáo của BKS tai ĐHDCĐ 2022 - cong bo.pdf</key>
-	<value>/static-assets/images/libraries/10 Báo cáo của BKS tai ĐHDCĐ 2022 - cong bo.pdf</value>
-	<fileType_mvs>pdf</fileType_mvs>
-	<fileSize_s>365574</fileSize_s>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Mau Thong tin ung vien A.doc</key>
+	<value>/static-assets/images/libraries/Mau Thong tin ung vien A.doc</value>
+	<fileType_mvs>doc</fileType_mvs>
+	<fileSize_s>231424</fileSize_s>
 	</item></pDFfile_o>
 	<isDisplay_b>false</isDisplay_b>
 	<createdDate>2022-03-26T01:10:31.171Z</createdDate>
 	<createdDate_dt>2022-03-26T01:10:31.171Z</createdDate_dt>
-	<lastModifiedDate>2022-03-26T01:10:31.171Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-03-26T01:10:31.171Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-05-24T08:10:42.386Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-05-24T08:10:42.386Z</lastModifiedDate_dt>
 </page>
