@@ -8,9 +8,9 @@
 	<objectId>036f4677-af00-4cc3-80e2-43a6d61f2d31</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>quyet-dinh-phat-thue</folder-name>
-	<internal-name>Công bố thông tin Quyết định xử phạt vi phạm hành chính về thuế</internal-name>
-	<navLabel>2022 CBTT Quyết định phạt thuế</navLabel>
-	<title_s>2022 CBTT Quyết định phạt thuế</title_s>
+	<internal-name>2022 CBTT Quyết định phạt thuế</internal-name>
+	<navLabel> CBTT Quyết định phạt thuế</navLabel>
+	<title_s>Công bố thông tin Quyết định xử phạt vi phạm hành chính về thuế</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</key>
@@ -24,8 +24,8 @@
 	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/quyet-dinh-phat-thue"&gt;Quyết định vi phạm h&amp;agrave;nh ch&amp;iacute;nh về thuế&lt;/a&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-31T09:07:05.067Z</createdDate>
 	<createdDate_dt>2020-07-31T09:07:05.067Z</createdDate_dt>
-	<lastModifiedDate>2022-05-25T10:18:15.500Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-05-25T10:18:15.500Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-05-25T10:21:40.651Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-05-25T10:21:40.651Z</lastModifiedDate_dt>
 	<date_dt>2022-05-21T09:46:48.000Z</date_dt>
 	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
 </page>
