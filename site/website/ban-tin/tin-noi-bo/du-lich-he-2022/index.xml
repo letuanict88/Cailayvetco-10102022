@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4a32</objectGroupId>
+	<objectId>4a32a0df-dce5-5f53-367e-5695c21ca79f</objectId>
+	<internal-name>Dược Thú y Cai Lậy “Kết sức mạnh – nối thành công” </internal-name>
+	<navLabel>Dược Thú y Cai Lậy “Kết sức mạnh – nối thành công”</navLabel>
+	<title_s>Dược Thú y Cai Lậy “Kết sức mạnh – nối thành công” tại thành phố biển Vũng Tàu</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>du-lich-he-2022</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/Du lich he 2022_MKV (2)-min.jpg</image_s>
+	<content_html>&lt;div style="text-align: justify;"&gt;Ng&amp;agrave;y 9 v&amp;agrave; 10/8/2022, c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n C&amp;ocirc;ng ty Cổ phần Dược th&amp;uacute; y Cai Lậy (Mekovet) đ&amp;atilde; tham gia Chương tr&amp;igrave;nh Du lịch h&amp;egrave; v&amp;agrave; Teambuilding tại Tp Vũng T&amp;agrave;u.&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;C&amp;aacute;c hoạt động như:&amp;nbsp;tham gia suối nước n&amp;oacute;ng B&amp;igrave;nh Ch&amp;acirc;u v&amp;agrave; &lt;em&gt;Nh&amp;agrave; thờ lớn Long Sơn, Teambuilding tr&amp;ecirc;n b&amp;atilde;i biển, Gala Dinner, Vinh danh c&amp;aacute; nh&amp;acirc;n tập thể xuất sắc 6 th&amp;aacute;ng đầu năm,&amp;hellip;&lt;/em&gt;&amp;nbsp;đ&amp;atilde; được c&amp;aacute;n bộ MKV tham gia nhiệt t&amp;igrave;nh, hứng khởi. &amp;Ocirc;ng Đ&amp;agrave;o Mạnh H&amp;ograve;a, Ph&amp;oacute; Tổng Gi&amp;aacute;m đốc Tập đo&amp;agrave;n Mavin trực tiếp tham gia Chương tr&amp;igrave;nh Gala Dinner, giao lưu kết nối với c&amp;aacute;n bộ MKV v&amp;agrave; ph&amp;aacute;t biểu chỉ đạo tại buổi lễ.&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;Với tinh thần &amp;ldquo;&lt;strong&gt;Gắn kết sức mạnh &amp;ndash; Kết nối th&amp;agrave;nh c&amp;ocirc;ng&lt;/strong&gt;&amp;rdquo;, Chương tr&amp;igrave;nh Du lịch h&amp;egrave; v&amp;agrave; Teambuidling năm 2022 l&amp;agrave; một hoạt động tập thể &amp;yacute; nghĩa d&amp;agrave;nh cho c&amp;aacute;n bộ MKV sau 2 năm &amp;ldquo;trầm lắng&amp;rdquo; do ảnh hưởng của Covid-19. Qua những hoạt động &amp;yacute; nghĩa như Teambuidling hay vinh danh tấm gương xuất sắc, mỗi c&amp;aacute;n bộ thấy được vai tr&amp;ograve; to lớn của m&amp;igrave;nh trong sự ph&amp;aacute;t triển của Tập thể, được truyền cảm hứng v&amp;agrave; quyết t&amp;acirc;m đ&amp;oacute;ng g&amp;oacute;p x&amp;acirc;y dựng MKV lớn mạnh trong tương lai.&lt;/div&gt;</content_html>
+	<createdDate>2022-08-13T02:15:32.753Z</createdDate>
+	<createdDate_dt>2022-08-13T02:15:33.000Z</createdDate_dt>
+	<lastModifiedDate>2022-08-13T02:15:32.753Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-08-13T02:15:32.753Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>
