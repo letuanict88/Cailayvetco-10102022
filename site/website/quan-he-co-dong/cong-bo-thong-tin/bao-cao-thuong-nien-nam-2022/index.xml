@@ -7,10 +7,10 @@
 	<objectGroupId>816140bb</objectGroupId>
 	<objectId>816140bb-76d2-4c06-bfe6-64434b67d5db</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>bao-cao-thuong-nien-nam-2022</folder-name>
-	<internal-name>MKV công bố báo cáo thường niên năm 2022</internal-name>
-	<navLabel>MKV công bố báo cáo thường niên năm 20212</navLabel>
-	<title_s>MKV công bố báo cáo thường niên năm 2022</title_s>
+	<folder-name>bao-cao-ban-nien-2022</folder-name>
+	<internal-name>MKV công bố báo cáo bán niên 2022</internal-name>
+	<navLabel>MKV công bố báo cáo bán niên 2022</navLabel>
+	<title_s>MKV công bố báo cáo bán niên 2022</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</key>
@@ -21,11 +21,11 @@
 	<categories_o>	<item>	<key>announcement</key>
 	<value_smv>Công bố thông tin</value_smv>
 	</item></categories_o>
-	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/bao-cao-ban-nien-2022 21"&gt;Bao cao thuong nien 2022&lt;/a&gt;&lt;/p&gt;</content_html>
+	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/bao-cao-ban-nien-2022 21"&gt;MKV c&amp;ocirc;ng bố b&amp;aacute;o c&amp;aacute;o b&amp;aacute;n ni&amp;ecirc;n 2022&lt;/a&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-31T08:41:50.867Z</createdDate>
 	<createdDate_dt>2020-07-31T08:41:50.867Z</createdDate_dt>
-	<lastModifiedDate>2022-08-15T01:30:04.194Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-08-15T01:30:04.194Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-08-15T01:32:53.700Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-08-15T01:32:53.700Z</lastModifiedDate_dt>
 	<date_dt>2022-08-15T01:30:26.000Z</date_dt>
 	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
 </page>
