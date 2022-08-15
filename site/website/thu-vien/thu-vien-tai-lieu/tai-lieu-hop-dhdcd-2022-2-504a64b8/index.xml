@@ -7,20 +7,20 @@
 	<objectGroupId>f7635efe</objectGroupId>
 	<objectId>f7635efe-02cc-4a14-9e42-b18df78251d2</objectId>
 	<isDisplay_b>false</isDisplay_b>
-	<internal-name>TL Đại hội đồng cổ đông thường niên năm 2022 2 504a64b8</internal-name>
-	<title_s>TL Đại hội đồng cổ đông thường niên năm 2022 2</title_s>
+	<internal-name>TL Báo cáo tài chính bán niên 2022</internal-name>
+	<title_s>TL Báo cáo tài chính bán niên 2022</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Thong bao moi hop.pdf</key>
-	<value>/static-assets/images/libraries/Thong bao moi hop.pdf</value>
+	<orderDefault_f>-1</orderDefault_f>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/BCTC soat xet 6 thang đau nam 2022 (1).pdf</key>
+	<value>/static-assets/images/libraries/BCTC soat xet 6 thang đau nam 2022 (1).pdf</value>
 	<fileType_mvs>pdf</fileType_mvs>
-	<fileSize_s>910389</fileSize_s>
+	<fileSize_s>5182176</fileSize_s>
 	</item></pDFfile_o>
 	<file-name>index.xml</file-name>
-	<folder-name>tai-lieu-hop-dhdcd-2022-2-504a64b8</folder-name>
+	<folder-name>bao-cao-ban-nien-2022</folder-name>
 	<avatar_s>/static-assets/images/libraries/MKV.jpg</avatar_s>
 	<createdDate>2021-03-24T09:57:28.682Z</createdDate>
 	<createdDate_dt>2021-03-24T09:57:28.682Z</createdDate_dt>
-	<lastModifiedDate>2022-03-25T10:57:07.059Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-03-25T10:57:07.059Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-08-15T01:23:35.020Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-08-15T01:23:35.020Z</lastModifiedDate_dt>
 </page>
