@@ -6,8 +6,8 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>2d6eaf2f</objectGroupId>
 	<objectId>2d6eaf2f-49f0-4cde-beed-fea10fc93630</objectId>
-	<internal-name> Thông báo đăng ký giao dịch cổ phiếu</internal-name>
-	<title_s>2022 Thông báo đăng ký giao dịch cổ phiếu</title_s>
+	<internal-name> 2022 Thông báo đăng ký giao dịch cổ phiếu</internal-name>
+	<title_s>Thông báo đăng ký giao dịch cổ phiếu</title_s>
 	<file-name>index.xml</file-name>
 	<folder-name>thong-bao-dang-ky-giao-dich-co-phieu</folder-name>
 	<isDisplay_b>false</isDisplay_b>
@@ -21,6 +21,6 @@
 	</item></pDFfile_o>
 	<createdDate>2022-03-26T01:39:31.798Z</createdDate>
 	<createdDate_dt>2022-03-26T01:39:31.798Z</createdDate_dt>
-	<lastModifiedDate>2022-08-31T09:19:46.391Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-08-31T09:19:46.391Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-08-31T09:23:31.918Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-08-31T09:23:31.918Z</lastModifiedDate_dt>
 </page>
