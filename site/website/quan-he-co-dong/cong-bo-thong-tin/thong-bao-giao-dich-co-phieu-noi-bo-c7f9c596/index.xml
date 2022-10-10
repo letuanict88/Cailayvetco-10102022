@@ -7,12 +7,12 @@
 	<objectGroupId>e43f128b</objectGroupId>
 	<objectId>e43f128b-9961-4167-a19f-ef6659e600a6</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>thong-bao-giao-dich-co-phieu-noi-bo-c7f9c596</folder-name>
-	<internal-name>2022 Thông báo giao dịch cổ phiếu người nội bộ  c7f9c596</internal-name>
+	<folder-name>bao-cao-ket-qua-giao-dich-co-phieu</folder-name>
+	<internal-name>2022 Báo cáo kết quả giao dịch cổ phiếu người nội bộ  </internal-name>
 	<navLabel>THÔNG BÁO GIAO DỊCH CỔ PHIẾU NGƯỜI NỘI BỘ</navLabel>
 	<title_s>Thông báo giao dịch cổ phiếu người nội bộ</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</key>
 	<value>Header - Investor</value>
 	<include>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</include>
@@ -24,14 +24,14 @@
 	<content_html>&lt;p&gt;T&amp;ecirc;n c&amp;aacute; nh&amp;acirc;n thực hiện giao dịch: Nguyễn Thị Th&amp;ugrave;y Dương&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;- Chức vụ hiện nay tại Tổ chức ni&amp;ecirc;m yết: vợ Th&amp;agrave;nh vi&amp;ecirc;n HĐQT&lt;/p&gt;
 &lt;p&gt;- M&amp;atilde; chứng kho&amp;aacute;n: MKV&lt;/p&gt;
-&lt;p&gt;- Số lượng cổ phiếu nắm giữ trước khi thực hiện giao dịch: 0 CP (tỷ lệ 0%)&lt;/p&gt;
-&lt;p&gt;- Số lượng cổ phiếu dự kiến sau khi giao dịch: 800.000 CP( tỷ lệ 16%).&lt;/p&gt;
-&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/thong-bao-dang-ky-giao-dich-co-phieu"&gt;Nguyen Thi Thuy Duong.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;- Số lượng cổ phiếu đăng k&amp;yacute; thực hiện giao dịch: 800.000 CP&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Số lượng cổ phiếu đ&amp;atilde; giao dịch: 600.896 CP( tỷ lệ 12%).&lt;/p&gt;
+&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/ket-qua-giao-dich-co-phieu-thuy-duong"&gt;BC Nguyen Thi Thuy Duong.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-31T09:07:05.067Z</createdDate>
 	<createdDate_dt>2020-07-31T09:07:05.067Z</createdDate_dt>
-	<lastModifiedDate>2022-09-07T01:25:36.155Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-09-07T01:25:36.155Z</lastModifiedDate_dt>
-	<date_dt>2022-08-31T09:26:13.000Z</date_dt>
+	<lastModifiedDate>2022-10-10T09:35:56.203Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-10-10T09:35:56.203Z</lastModifiedDate_dt>
+	<date_dt>2022-09-28T09:26:13.000Z</date_dt>
 	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
 </page>
